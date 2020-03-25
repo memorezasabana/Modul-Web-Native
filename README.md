@@ -1,4 +1,4 @@
-# Modul-Web-Native
+# 【Ｍｏｄｕｌ－Ｗｅｂ－Ｎａｔｉｖｅ】
 𝘈𝘴𝘴𝘢𝘭𝘢𝘮𝘶𝘢𝘭𝘢𝘪𝘬𝘶𝘮 𝘞𝘳. 𝘞𝘣,
 𝘚𝘢𝘭𝘢𝘮 𝘴𝘦𝘫𝘢𝘩𝘵𝘦𝘳𝘢 𝘣𝘢𝘨𝘪 𝘬𝘪𝘵𝘢 𝘴𝘦𝘮𝘶𝘢,
 𝘖𝘮 𝘚𝘸𝘢𝘴𝘵𝘺𝘢𝘴𝘵𝘶,
@@ -19,5 +19,11 @@ Nah, pada modul 0 tersebut merupakan pembuatan database, di mana ya kira-kira ??
 6. Setelah selesai membuat semua tabel buatlah relasi antar tabel dengan cara klik navbar more dibagian atas kemudian pilih designer untuk menghubungkan pilihlah tool create relationship setelah itu letakkan di primary key dan hubungkan ke foreign key
 7. Untuk mengisi table, silahkan klik nama tabel dan pilih insert pada navbar atas isikan sesuai values nya
 8. Database telah selesai dibuat
+
+# 【 ＭＯＤＵＬ　１】
+Di dalam Modul 1 ini  kita akan diarahkan untuk melakukan proses pembuatan dashboard, seperti gambar berikut
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/1.PNG)
+
+
 # PENJELASAN MODUL 4-6
 PENJELASAN AKAN TERBIT SEGERA !!!
