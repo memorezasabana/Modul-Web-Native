@@ -22,15 +22,28 @@ Nah, pada modul 0 tersebut merupakan pembuatan database, di mana ya kira-kira ??
 
 # 【 ＭＯＤＵＬ　１ 】
 Di dalam Modul 1 ini  kita akan diarahkan untuk melakukan proses pembuatan dashboard, seperti gambar berikut
+
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/1.PNG)
+
 Untuk proses pembuatan programnya silakan buka modul 1 yang sudah saya masukkan di file modul, nah di dalam tampilan dashboard ini terdapat navbar di bagian atas yang nantinya akan berfungsi apabila kita mengklik saah satu dari navbar tersebut. Sebelum masuk dalam dashboard sebenarnya masih ada form login, karena form login berada di modul 6 dan belum saya desain maka belum saya tampilkan. Dalam tampilan dashboard ini menggunakan bootstrap, jquery, dan juga font awesome untuk masing-masing icon. untuk pengoperasian navbar terdapat pada modul berikutnya.
 
 # 【 ＭＯＤＵＬ　２ 】
 Modul 2 kali ini akan membuat isi dari navbar buku dan anggota, di mana nantinya apabila memilih navbar buku dan anggota akan di tampilkan datanya, seperti yang berada di gambar berikut tampilan tetap menampilkan header dan footer yang sama. Untuk langkah pembuatannya bisa mengikuti modul 2 yang sudah ada. Berikut merupakan hasil dari Modul 2
+
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/2.PNG)
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/4.PNG)
 
+# 【 ＭＯＤＵＬ　３ 】
+Bagaimanana data dapat ditambahkan ? Nah jawabannya terdapat di modul ini. Dalam penambahan data pastikan file koneksi telah terisi supaya dapat terkoneksi dengan database di phpmyadmin. Apa sih gunanya ? yap,, jadi gunanya supaya kita lebih mudah dalam penambahan datanya, tidak perlu membuka database di phpmyadminnya tapi cukup menambahkan di button tambahnya saja. OKEY SIMPLE KAN ?? Berikut merupakan form dari button tambahnya yang apabila di klik simpan akan langsung menambah di tampilan data.
+
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/3.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/5.PNG)
 
 
-# PENJELASAN MODUL 4-6
-PENJELASAN AKAN TERBIT SEGERA !!!
+# 【 ＰＥＮＪＥＬＡＳＡＮ　ＭＯＤＵＬ ４－６ 】
+🄿🄴🄽🄹🄴🄻🄰🅂🄰🄽 🄰🄺🄰🄽 🅃🄴🅁🄱🄸🅃 🅂🄴🄶🄴🅁🄰 !!!
+
+# 𝙆𝙖𝙡𝙖𝙪 𝙗𝙞𝙣𝙜𝙪𝙣𝙜 𝙝𝙖𝙧𝙪𝙨 𝙩𝙖𝙣𝙮𝙖 𝙠𝙚𝙢𝙖𝙣𝙖 ??
+𝘾𝙪𝙠𝙪𝙥 𝙝𝙪𝙗𝙪𝙣𝙜𝙞 𝙠𝙤𝙣𝙩𝙖𝙠 𝙗𝙚𝙧𝙞𝙠𝙪𝙩 :
+𝙒𝘼 : +62 857 3604 1408
+𝙄𝙂 : @𝙤𝙯𝙯𝙖𝙨_
