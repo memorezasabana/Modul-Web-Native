@@ -1,4 +1,4 @@
-# 【Ｍｏｄｕｌ－Ｗｅｂ－Ｎａｔｉｖｅ】
+# 【 Ｍｏｄｕｌ－Ｗｅｂ－Ｎａｔｉｖｅ 】
 𝘈𝘴𝘴𝘢𝘭𝘢𝘮𝘶𝘢𝘭𝘢𝘪𝘬𝘶𝘮 𝘞𝘳. 𝘞𝘣,
 𝘚𝘢𝘭𝘢𝘮 𝘴𝘦𝘫𝘢𝘩𝘵𝘦𝘳𝘢 𝘣𝘢𝘨𝘪 𝘬𝘪𝘵𝘢 𝘴𝘦𝘮𝘶𝘢,
 𝘖𝘮 𝘚𝘸𝘢𝘴𝘵𝘺𝘢𝘴𝘵𝘶,
@@ -8,7 +8,7 @@
 Jadi, kali ini saya akan menjelaskan modul 0-3 saja, untuk penjelasan yang modul selanjutnya akan menyusul di lain hari.
 Di modul tersebut berisikan sebuah pembuatan WEB ADMIN PERPUSTAKAAN. Nah, kalian bisa simak penjelasan berikut ini.
 
-# 【 ＭＯＤＵＬ　０】
+# 【 ＭＯＤＵＬ　０ 】
 Nah, pada modul 0 tersebut merupakan pembuatan database, di mana ya kira-kira ??
 - Penjelasan Modul 0 :
 1. Buka XAMPP dan run apache serta mySQL yaitu dengan menekan button start
@@ -20,9 +20,16 @@ Nah, pada modul 0 tersebut merupakan pembuatan database, di mana ya kira-kira ??
 7. Untuk mengisi table, silahkan klik nama tabel dan pilih insert pada navbar atas isikan sesuai values nya
 8. Database telah selesai dibuat
 
-# 【 ＭＯＤＵＬ　１】
+# 【 ＭＯＤＵＬ　１ 】
 Di dalam Modul 1 ini  kita akan diarahkan untuk melakukan proses pembuatan dashboard, seperti gambar berikut
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/1.PNG)
+Untuk proses pembuatan programnya silakan buka modul 1 yang sudah saya masukkan di file modul, nah di dalam tampilan dashboard ini terdapat navbar di bagian atas yang nantinya akan berfungsi apabila kita mengklik saah satu dari navbar tersebut. Sebelum masuk dalam dashboard sebenarnya masih ada form login, karena form login berada di modul 6 dan belum saya desain maka belum saya tampilkan. Dalam tampilan dashboard ini menggunakan bootstrap, jquery, dan juga font awesome untuk masing-masing icon. untuk pengoperasian navbar terdapat pada modul berikutnya.
+
+# 【 ＭＯＤＵＬ　２ 】
+Modul 2 kali ini akan membuat isi dari navbar buku dan anggota, di mana nantinya apabila memilih navbar buku dan anggota akan di tampilkan datanya, seperti yang berada di gambar berikut tampilan tetap menampilkan header dan footer yang sama. Untuk langkah pembuatannya bisa mengikuti modul 2 yang sudah ada. Berikut merupakan hasil dari Modul 2
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/2.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/4.PNG)
+
 
 
 # PENJELASAN MODUL 4-6
