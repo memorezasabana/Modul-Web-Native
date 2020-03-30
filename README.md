@@ -41,6 +41,12 @@ Bagaimanana data dapat ditambahkan ? Nah jawabannya terdapat di modul ini. Dalam
 
 # 【 ＭＯＤＵＬ　４ 】
 
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/6.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/7.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/8.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/9.PNG)
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/10.PNG)
+
 # 【 ＰＥＮＪＥＬＡＳＡＮ　ＭＯＤＵＬ ４－６ 】
 『T』『E』『R』『B』『I』『T』   『S』『E』『G』『E』『R』『A』
 
