@@ -56,7 +56,7 @@ Di bagian edit peminjaman ini kita hanya dapat mengubah pada tanggal peminjamann
 Okey, yang ini adalah form untuk tambah peminjaman. Mengapa dalam form ini hanya terdapat 3 kolom data tetapi di halaman peminjaman lebih dari 3 data. Nah, di sini data tanggal jatuh tempo akan terkonsep otomatis karena telah tetuliskan PHPnya bahwa akan menambah 7 hari ke depan. Selain itu juga nama petugas akan otomatis masuk di datanya. Untuk status, sewaktu buku belum dikembalikan masih tertulis dipinjam secara otomatis pula. Ini jawabannya mengapa kita hanya menulis nama anggota, judul buku, dan tanggal pinjam.
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/10.PNG)
 
-𝑀𝑜𝒽𝑜𝓃 𝓂𝒶𝒶𝒻,
+- 𝑀𝑜𝒽𝑜𝓃 𝓂𝒶𝒶𝒻,
 Dalam pengerjaan modul 4 ini sebenarnya masih ada kesalahan, hanya saja keerorran tersebut tidak tampil pada tampilannya sehingga dalam penjelasan di atas saya menjelaskan hasil ekspetasi saya mengenai modul 4 tersebut dan menurut hasil codingan saya juga belum terarah sesuai konsep, mohon dimaklumi Terima Kasih :)
 
 # 【 ＰＥＮＪＥＬＡＳＡＮ　ＭＯＤＵＬ ５－６ 】
