@@ -5,7 +5,7 @@
 𝘕𝘢𝘮𝘰 𝘉𝘶𝘥𝘥𝘩𝘢𝘺𝘢,
 𝘚𝘢𝘭𝘢𝘮 𝘒𝘦𝘣𝘢𝘫𝘪𝘬𝘢𝘯
 
-Jadi, kali ini saya akan menjelaskan modul 0-3 saja, untuk penjelasan yang modul selanjutnya akan menyusul di lain hari.
+Jadi, kali ini saya akan menjelaskan modul 0-4 saja, untuk penjelasan yang modul selanjutnya akan menyusul di lain hari.
 Di modul tersebut berisikan sebuah pembuatan WEB ADMIN PERPUSTAKAAN. Nah, kalian bisa simak penjelasan berikut ini.
 
 # 【 ＭＯＤＵＬ　０ 】
@@ -40,14 +40,26 @@ Bagaimanana data dapat ditambahkan ? Nah jawabannya terdapat di modul ini. Dalam
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/5.PNG)
 
 # 【 ＭＯＤＵＬ　４ 】
-
+Jadi, apa sih isi dari modul 4 ini ?
+Kalian perlu tau bahwa di modul 4 ini kita akan fokus di bagian peminjaman, seperti pada gambar di bawah ini
 ![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/6.PNG)
-![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/7.PNG)
-![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/9.PNG)
-![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/8.PNG)
-![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/10.PNG)
 
-# 【 ＰＥＮＪＥＬＡＳＡＮ　ＭＯＤＵＬ ４－６ 】
+Wah, kok bisa muncul ke halaman ini ? Nah kita dapat masuk ke button detail. Di halaman detail ini menampilkan isi ddari dari data peminjaman atas nama anggota tersebut. 
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/7.PNG)
+
+Lalu kita bisa masuk juga di form pengembalian. Tau gak sih fungsinya form ini apa ? Nah, fungsi dari form ini adalah form di mana kita akan mengoperasikannya apabila anggota mengembalikan bukunya. Lantas apa bedanya dengan tanggal jatuh tempo, tanggal jatuh tempo yaitu tanggal di mana si anggota harus mengembalikan buku yang dipinjam pada tanggal tersebut. Dan apabila si anggota mengembalikan lebih dari tanggal jatuh tempo maka akan dikenakan denda, sesuai tampilan detai peminjaman.
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/9.PNG)
+
+Di bagian edit peminjaman ini kita hanya dapat mengubah pada tanggal peminjamannya saja, nama peminjam dan judulnya masih sesuai button yang kita pilih dari aksinya. Setelah disimpan maka akan berubah pada tampilan halaman peminjaman.
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/8.PNG)
+
+![ALT TEXT](https://github.com/memorezasabana/Modul-Web-Native/blob/master/SS%20SIPERPUS/10.PNG)
+Okey, yang ini adalah form untuk tambah peminjaman. Mengapa dalam form ini hanya terdapat 3 kolom data tetapi di halaman peminjaman lebih dari 3 data. Nah, di sini data tanggal jatuh tempo akan terkonsep otomatis karena telah tetuliskan PHPnya bahwa akan menambah 7 hari ke depan. Selain itu juga nama petugas akan otomatis masuk di datanya. Untuk status, sewaktu buku belum dikembalikan masih tertulis dipinjam secara otomatis pula. Ini jawabannya mengapa kita hanya menulis nama anggota, judul buku, dan tanggal pinjam.
+
+𝑀𝑜𝒽𝑜𝓃 𝓂𝒶𝒶𝒻,
+Dalam pengerjaan modul 4 ini sebenarnya masih ada kesalahan, hanya saja keerorran tersebut tidak tampil pada tampilannya sehingga dalam penjelasan di atas saya menjelaskan hasil ekspetasi saya mengenai modul 4 tersebut dan menurut hasil codingan saya juga belum terarah sesuai konsep, mohon dimaklumi Terima Kasih :)
+
+# 【 ＰＥＮＪＥＬＡＳＡＮ　ＭＯＤＵＬ ５－６ 】
 『T』『E』『R』『B』『I』『T』   『S』『E』『G』『E』『R』『A』
 
 # 𝙆𝙖𝙡𝙖𝙪 𝙗𝙞𝙣𝙜𝙪𝙣𝙜 𝙝𝙖𝙧𝙪𝙨 𝙩𝙖𝙣𝙮𝙖 𝙠𝙚𝙢𝙖𝙣𝙖 ??
